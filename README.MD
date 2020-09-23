@@ -1,4 +1,4 @@
-#pt-br
+# pt-br
 
 ### Recursos
 
@@ -15,7 +15,7 @@
 
 [TOC]
 
-###Requisitos
+### Requisitos
 
 - Uma conta no Azure (pode ser trial);
 - Uma instancia do Microsoft Cognitive Services (Instancia F0 suportada);
@@ -24,7 +24,7 @@
 
 ![](http://tarcisiogambin.net/wp-content/uploads/sites/2/2020/09/azure_cog_service_.png)
 
-###Como rodar
+### Como rodar
 
 - Clone este repositório locamente
 - Acesse o repositório e execute **dotnet run** (ou build, se preferir);
@@ -36,7 +36,7 @@
 ------------
 
 
-#en-us 
+# en-us 
 
 ### Features
 
@@ -45,7 +45,7 @@
 - Allow custom messages, no need to rebuild (pt-BR default);
 - Net core multiplatform, build and tested on Linux;
 
-###Requirements
+### Requirements
 
 - An Azure Account (trial supported);
 - Created an Cognitive Services instance (F0 tier supported);
@@ -55,7 +55,7 @@
 At the first, e
 ![](http://tarcisiogambin.net/wp-content/uploads/sites/2/2020/09/azure_cog_service_.png)
 
-###How To Run
+### How To Run
 
 - Clone this repot locally;
 - Enter the repo and **dotnet run** (or build, if you prefer);
