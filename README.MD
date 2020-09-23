@@ -6,7 +6,7 @@
 - Total integração com **Microsoft Cognitive Services**;
 - Permite mensagens customizadas, sem necessidade de rebuild do projeto;
 - Console app **multiplataforma**, construído e testado em Linux;
-- Support environment variable, like **DOTNET_ENV=prd** for custom config file;
+- Suporta uso de variável de ambiente, like **DOTNET_ENV=prd** para arquivos específicos de configuração;
 
 
 **Conteúdo**
