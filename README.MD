@@ -28,7 +28,8 @@
 
 ### Como rodar
 
-- Clone este repositório locamente
+- Clone este repositório locamente;
+- Configure a chave do serviço no app.settings.json;
 - Acesse o repositório e execute **dotnet run** (ou build, se preferir);
 - Entre com o diretório raiz onde estão os arquivos de audio (wav) e aproveite uma bebida enquanto isso:
 
@@ -61,6 +62,7 @@
 ### How To Run
 
 - Clone this repot locally;
+- Configure the service key on app.settings.json;
 - Enter the repo and **dotnet run** (or build, if you prefer);
 - Enter the root directory from wav files and enjoy a brew meanwhile:
 
