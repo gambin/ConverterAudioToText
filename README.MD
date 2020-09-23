@@ -20,7 +20,9 @@
 - Uma conta no Azure (pode ser trial);
 - Uma instancia do Microsoft Cognitive Services (Instancia F0 suportada);
 - Acesso a chave "KEY1" do serviço;
-- Dotnet core instalado localmente, preferencialmente versões mais recentes;
+- Dotnet core SDK instalado localmente, preferencialmente versões mais recentes (3.1);
+- VC++ https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
+
 
 ![](http://tarcisiogambin.net/wp-content/uploads/sites/2/2020/09/azure_cog_service_.png)
 
@@ -44,15 +46,16 @@
 - Fully integrated with Microsoft Cognitive Services;
 - Allow custom messages, no need to rebuild (pt-BR default);
 - Net core multiplatform, build and tested on Linux;
+- Support environment variable, like **DOTNET_ENV=prd** for custom config file;
 
 ### Requirements
 
 - An Azure Account (trial supported);
 - Created an Cognitive Services instance (F0 tier supported);
 - Grab KEY 1 from Keys and Endpoints section;
-- DotNet Core installed locally, most recent version recommended;
-- Support environment variable, like **DOTNET_ENV=prd** for custom config file;
-At the first, e
+- DotNet Core SDK installed locally, most recent version recommended (3.1);
+- VC++ https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads;
+
 ![](http://tarcisiogambin.net/wp-content/uploads/sites/2/2020/09/azure_cog_service_.png)
 
 ### How To Run
